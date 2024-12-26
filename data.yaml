@@ -1,0 +1,7 @@
+train: C:\Users\shbha\OneDrive\Desktop\Logo_Detection\train\images
+val: C:\Users\shbha\OneDrive\Desktop\Logo_Detection\valid\images
+test: C:\Users\shbha\OneDrive\Desktop\Logo_Detection\test\images
+
+nc: 7
+names: ['AWS', 'Estrella-Galicia', 'Puma', 'RayBan', 'Santander_L', 'Santander_N', 'Shell']
+
